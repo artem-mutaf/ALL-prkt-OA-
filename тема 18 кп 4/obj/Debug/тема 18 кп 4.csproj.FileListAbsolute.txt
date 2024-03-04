@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\тема 18 кп 4\obj\Debug\тема 18 кп 4.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\тема 18 кп 4\obj\Debug\тема 18 кп 4.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\тема 18 кп 4\bin\Debug\тема 18 кп 4.exe.config
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\тема 18 кп 4\bin\Debug\тема 18 кп 4.exe
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\тема 18 кп 4\bin\Debug\тема 18 кп 4.pdb
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\тема 18 кп 4\obj\Debug\тема 18 кп 4.exe
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\тема 18 кп 4\obj\Debug\тема 18 кп 4.pdb
+C:\Users\Kab-35-6\Desktop\тема 18 кп 4\bin\Debug\тема 18 кп 4.exe.config
+C:\Users\Kab-35-6\Desktop\тема 18 кп 4\bin\Debug\тема 18 кп 4.exe
+C:\Users\Kab-35-6\Desktop\тема 18 кп 4\bin\Debug\тема 18 кп 4.pdb
+C:\Users\Kab-35-6\Desktop\тема 18 кп 4\obj\Debug\тема 18 кп 4.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\Desktop\тема 18 кп 4\obj\Debug\тема 18 кп 4.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\Desktop\тема 18 кп 4\obj\Debug\тема 18 кп 4.exe
+C:\Users\Kab-35-6\Desktop\тема 18 кп 4\obj\Debug\тема 18 кп 4.pdb

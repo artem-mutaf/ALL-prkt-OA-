@@ -1,0 +1,7 @@
+C:\Users\kab-35-17\Desktop\ClassRoom1\bin\Debug\ClassRoom1.exe.config
+C:\Users\kab-35-17\Desktop\ClassRoom1\bin\Debug\ClassRoom1.exe
+C:\Users\kab-35-17\Desktop\ClassRoom1\bin\Debug\ClassRoom1.pdb
+C:\Users\kab-35-17\Desktop\ClassRoom1\obj\Debug\ClassRoom1.csproj.AssemblyReference.cache
+C:\Users\kab-35-17\Desktop\ClassRoom1\obj\Debug\ClassRoom1.csproj.CoreCompileInputs.cache
+C:\Users\kab-35-17\Desktop\ClassRoom1\obj\Debug\ClassRoom1.exe
+C:\Users\kab-35-17\Desktop\ClassRoom1\obj\Debug\ClassRoom1.pdb

@@ -1,7 +1,0 @@
-C:\Users\kab-35-17\Desktop\ClassRoom3\bin\Debug\ClassRoom3.exe.config
-C:\Users\kab-35-17\Desktop\ClassRoom3\bin\Debug\ClassRoom3.exe
-C:\Users\kab-35-17\Desktop\ClassRoom3\bin\Debug\ClassRoom3.pdb
-C:\Users\kab-35-17\Desktop\ClassRoom3\obj\Debug\ClassRoom3.csproj.AssemblyReference.cache
-C:\Users\kab-35-17\Desktop\ClassRoom3\obj\Debug\ClassRoom3.csproj.CoreCompileInputs.cache
-C:\Users\kab-35-17\Desktop\ClassRoom3\obj\Debug\ClassRoom3.exe
-C:\Users\kab-35-17\Desktop\ClassRoom3\obj\Debug\ClassRoom3.pdb

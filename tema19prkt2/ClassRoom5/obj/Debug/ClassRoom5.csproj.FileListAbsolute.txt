@@ -1,0 +1,7 @@
+C:\Users\artik\Desktop\tema19prkt2\ClassRoom5\bin\Debug\ClassRoom5.exe.config
+C:\Users\artik\Desktop\tema19prkt2\ClassRoom5\bin\Debug\ClassRoom5.exe
+C:\Users\artik\Desktop\tema19prkt2\ClassRoom5\bin\Debug\ClassRoom5.pdb
+C:\Users\artik\Desktop\tema19prkt2\ClassRoom5\obj\Debug\ClassRoom5.csproj.AssemblyReference.cache
+C:\Users\artik\Desktop\tema19prkt2\ClassRoom5\obj\Debug\ClassRoom5.csproj.CoreCompileInputs.cache
+C:\Users\artik\Desktop\tema19prkt2\ClassRoom5\obj\Debug\ClassRoom5.exe
+C:\Users\artik\Desktop\tema19prkt2\ClassRoom5\obj\Debug\ClassRoom5.pdb

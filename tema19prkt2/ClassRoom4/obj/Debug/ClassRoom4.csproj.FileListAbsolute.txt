@@ -1,0 +1,7 @@
+C:\Users\kab-35-17\Desktop\ClassRoom4\bin\Debug\ClassRoom4.exe.config
+C:\Users\kab-35-17\Desktop\ClassRoom4\bin\Debug\ClassRoom4.exe
+C:\Users\kab-35-17\Desktop\ClassRoom4\bin\Debug\ClassRoom4.pdb
+C:\Users\kab-35-17\Desktop\ClassRoom4\obj\Debug\ClassRoom4.csproj.AssemblyReference.cache
+C:\Users\kab-35-17\Desktop\ClassRoom4\obj\Debug\ClassRoom4.csproj.CoreCompileInputs.cache
+C:\Users\kab-35-17\Desktop\ClassRoom4\obj\Debug\ClassRoom4.exe
+C:\Users\kab-35-17\Desktop\ClassRoom4\obj\Debug\ClassRoom4.pdb

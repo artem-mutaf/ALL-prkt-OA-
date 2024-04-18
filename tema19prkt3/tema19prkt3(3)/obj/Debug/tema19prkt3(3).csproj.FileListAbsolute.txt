@@ -1,0 +1,7 @@
+D:\Projects VStd\tema19prkt3(3)\bin\Debug\tema19prkt3(3).exe.config
+D:\Projects VStd\tema19prkt3(3)\bin\Debug\tema19prkt3(3).exe
+D:\Projects VStd\tema19prkt3(3)\bin\Debug\tema19prkt3(3).pdb
+D:\Projects VStd\tema19prkt3(3)\obj\Debug\tema19prkt3(3).csproj.AssemblyReference.cache
+D:\Projects VStd\tema19prkt3(3)\obj\Debug\tema19prkt3(3).csproj.CoreCompileInputs.cache
+D:\Projects VStd\tema19prkt3(3)\obj\Debug\tema19prkt3(3).exe
+D:\Projects VStd\tema19prkt3(3)\obj\Debug\tema19prkt3(3).pdb

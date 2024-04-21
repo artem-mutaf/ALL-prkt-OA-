@@ -1,0 +1,14 @@
+C:\Users\kab-35-17\Desktop\tema19prkt4(1)\bin\Debug\tema19prkt4(1).exe.config
+C:\Users\kab-35-17\Desktop\tema19prkt4(1)\bin\Debug\tema19prkt4(1).exe
+C:\Users\kab-35-17\Desktop\tema19prkt4(1)\bin\Debug\tema19prkt4(1).pdb
+C:\Users\kab-35-17\Desktop\tema19prkt4(1)\obj\Debug\tema19prkt4(1).csproj.AssemblyReference.cache
+C:\Users\kab-35-17\Desktop\tema19prkt4(1)\obj\Debug\tema19prkt4(1).csproj.CoreCompileInputs.cache
+C:\Users\kab-35-17\Desktop\tema19prkt4(1)\obj\Debug\tema19prkt4(1).exe
+C:\Users\kab-35-17\Desktop\tema19prkt4(1)\obj\Debug\tema19prkt4(1).pdb
+C:\Users\artik\Desktop\tema19prkt4\tema19prkt4(1)\bin\Debug\tema19prkt4(1).exe.config
+C:\Users\artik\Desktop\tema19prkt4\tema19prkt4(1)\bin\Debug\tema19prkt4(1).exe
+C:\Users\artik\Desktop\tema19prkt4\tema19prkt4(1)\bin\Debug\tema19prkt4(1).pdb
+C:\Users\artik\Desktop\tema19prkt4\tema19prkt4(1)\obj\Debug\tema19prkt4(1).csproj.AssemblyReference.cache
+C:\Users\artik\Desktop\tema19prkt4\tema19prkt4(1)\obj\Debug\tema19prkt4(1).csproj.CoreCompileInputs.cache
+C:\Users\artik\Desktop\tema19prkt4\tema19prkt4(1)\obj\Debug\tema19prkt4(1).exe
+C:\Users\artik\Desktop\tema19prkt4\tema19prkt4(1)\obj\Debug\tema19prkt4(1).pdb

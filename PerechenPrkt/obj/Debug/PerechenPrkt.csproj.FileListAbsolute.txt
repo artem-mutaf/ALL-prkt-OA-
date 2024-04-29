@@ -1,0 +1,7 @@
+C:\Users\Kab-35-6\Desktop\PerechenPrkt\obj\Debug\PerechenPrkt.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\Desktop\PerechenPrkt\obj\Debug\PerechenPrkt.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\Desktop\PerechenPrkt\bin\Debug\PerechenPrkt.exe.config
+C:\Users\Kab-35-6\Desktop\PerechenPrkt\bin\Debug\PerechenPrkt.exe
+C:\Users\Kab-35-6\Desktop\PerechenPrkt\bin\Debug\PerechenPrkt.pdb
+C:\Users\Kab-35-6\Desktop\PerechenPrkt\obj\Debug\PerechenPrkt.exe
+C:\Users\Kab-35-6\Desktop\PerechenPrkt\obj\Debug\PerechenPrkt.pdb

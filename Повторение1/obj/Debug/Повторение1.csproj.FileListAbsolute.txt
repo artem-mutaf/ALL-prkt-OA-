@@ -1,0 +1,7 @@
+C:\Users\Kab-35-6\Desktop\Повторение1\bin\Debug\Повторение1.exe.config
+C:\Users\Kab-35-6\Desktop\Повторение1\bin\Debug\Повторение1.exe
+C:\Users\Kab-35-6\Desktop\Повторение1\bin\Debug\Повторение1.pdb
+C:\Users\Kab-35-6\Desktop\Повторение1\obj\Debug\Повторение1.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\Desktop\Повторение1\obj\Debug\Повторение1.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\Desktop\Повторение1\obj\Debug\Повторение1.exe
+C:\Users\Kab-35-6\Desktop\Повторение1\obj\Debug\Повторение1.pdb

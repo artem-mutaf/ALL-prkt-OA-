@@ -1,0 +1,7 @@
+C:\Users\Kab-35-6\Desktop\Задача1Перечисления\bin\Debug\Задача1Перечисления.exe.config
+C:\Users\Kab-35-6\Desktop\Задача1Перечисления\bin\Debug\Задача1Перечисления.exe
+C:\Users\Kab-35-6\Desktop\Задача1Перечисления\bin\Debug\Задача1Перечисления.pdb
+C:\Users\Kab-35-6\Desktop\Задача1Перечисления\obj\Debug\Задача1Перечисления.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\Desktop\Задача1Перечисления\obj\Debug\Задача1Перечисления.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\Desktop\Задача1Перечисления\obj\Debug\Задача1Перечисления.exe
+C:\Users\Kab-35-6\Desktop\Задача1Перечисления\obj\Debug\Задача1Перечисления.pdb

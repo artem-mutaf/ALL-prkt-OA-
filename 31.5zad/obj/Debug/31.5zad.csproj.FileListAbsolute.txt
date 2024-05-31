@@ -1,0 +1,7 @@
+D:\задачи\31.5zad\bin\Debug\31.5zad.exe.config
+D:\задачи\31.5zad\bin\Debug\31.5zad.exe
+D:\задачи\31.5zad\bin\Debug\31.5zad.pdb
+D:\задачи\31.5zad\obj\Debug\31.5zad.csproj.AssemblyReference.cache
+D:\задачи\31.5zad\obj\Debug\31.5zad.csproj.CoreCompileInputs.cache
+D:\задачи\31.5zad\obj\Debug\31.5zad.exe
+D:\задачи\31.5zad\obj\Debug\31.5zad.pdb
